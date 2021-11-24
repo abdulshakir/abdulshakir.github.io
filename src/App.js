@@ -28,7 +28,7 @@ function App() {
             <Fade duration={1000}>
               <h4>Hi, my name is</h4>
               <h1 className="display-1">
-                <strong>Zeeshan Siddiqui.</strong>
+                <strong>Abdul Shakir Khan.</strong>
               </h1>
               <h2 className="display-2">I build things for the web.</h2>
             </Fade>
@@ -38,7 +38,7 @@ function App() {
                 id="contact-icons"
               >
                 <a
-                  href="https://www.linkedin.com/in/zeeshan98/"
+                  href="https://www.linkedin.com/in/abdul-shakir-khan-13bb30b2/"
                   target="_blank"
                   className="fa fa-linkedin"
                   rel="noreferrer"
@@ -46,7 +46,7 @@ function App() {
                   <FontAwesomeIcon icon={faLinkedin} />
                 </a>
                 <a
-                  href="https://github.com/siddiqui-zeeshan/"
+                  href="https://github.com/abdulshakir"
                   target="_blank"
                   className="fa fa-github"
                   rel="noreferrer"
@@ -54,20 +54,20 @@ function App() {
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
                 <a
-                  href="mailto:siddiqui.zeeshan1998@gmail.com"
+                  href="mailto:gen.shakir@gmail.com"
                   className="fa fa-envelope"
                 >
                   <FontAwesomeIcon icon={faEnvelope} />
                 </a>
                 <a
-                  href="https://www.facebook.com/zeeshansiddiqui.1998/"
+                  href="https://www.facebook.com/shakir.khan.75098364/"
                   target="_blank"
                   className="fa fa-facebook"
                   rel="noreferrer"
                 >
                   <FontAwesomeIcon icon={faFacebook} />
                 </a>
-                <a
+              /*  <a
                   href="https://www.instagram.com/zeeshan.1902/"
                   target="_blank"
                   className="fa fa-instagram"
@@ -75,6 +75,7 @@ function App() {
                 >
                   <FontAwesomeIcon icon={faInstagram} />
                 </a>
+               */
               </div>
             </Fade>
           </div>
@@ -85,7 +86,7 @@ function App() {
         <div id="side-footer">
           <div className="side-container">
             <a
-              href="https://www.linkedin.com/in/zeeshan98/"
+              href="https://www.linkedin.com/in/abdul-shakir-khan-13bb30b2/"
               target="_blank"
               className="fa fa-linkedin"
               rel="noreferrer"
@@ -94,7 +95,7 @@ function App() {
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
             <a
-              href="https://github.com/siddiqui-zeeshan/"
+              href="https://github.com/abdulshakir"
               target="_blank"
               className="fa fa-github"
               rel="noreferrer"
@@ -103,7 +104,7 @@ function App() {
               <FontAwesomeIcon icon={faGithub} />
             </a>
             <a
-              href="https://www.facebook.com/zeeshansiddiqui.1998/"
+              href="https://www.facebook.com/shakir.khan.75098364/"
               target="_blank"
               className="fa fa-facebook"
               rel="noreferrer"
@@ -111,7 +112,7 @@ function App() {
             >
               <FontAwesomeIcon icon={faFacebook} />
             </a>
-            <a
+          /*  <a
               href="https://www.instagram.com/zeeshan.1902/"
               target="_blank"
               className="fa fa-instagram"
@@ -120,13 +121,14 @@ function App() {
             >
               <FontAwesomeIcon icon={faInstagram} />
             </a>
+           */
           </div>
         </div>
 
         <div id="side-footer-2">
           <div
             className="side-container-2"
-            onclick="location.href='https://drive.google.com/uc?export=download&id=1m343gNBUqipgeQ42ZUwkEfnqQjrEL-xh';"
+            onclick="location.href='https://drive.google.com/uc?export=download&id=11p7bN5vsN608ac_IEXLcHWZpyebR9Obw';"
             style={{ cursor: "pointer" }}
           >
             <div id="resume-text">M</div>
@@ -153,9 +155,8 @@ function App() {
                 </Fade>
                 <Fade duration={1000}>
                   <p>
-                    Hello, world! I am Zeeshan Siddiqui. I graduated from IIT
-                    (ISM) Dhanbad in 2021 with a degree in Electrical
-                    Engineering.
+                    Hello, world! I am Abdul Shakir Khan. I graduated from IIT
+                    (ISM) Dhanbad in 2020 with a degree in Computer Science and Engineering.
                   </p>
                   <p>
                     I am a software developer by profession, and I enjoy
@@ -183,7 +184,7 @@ function App() {
                     <img
                       src={myPic}
                       className="img-fluid"
-                      alt="Zeeshan Siddiqui"
+                      alt="Abdul Shakir Khan"
                       id="my-pic"
                     />
                   </div>
