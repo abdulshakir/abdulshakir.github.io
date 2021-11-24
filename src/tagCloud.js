@@ -5,7 +5,6 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import { Text, TrackballControls } from "@react-three/drei";
 let MyList = [
   "React",
-  "Node.js",
   "MySQL",
   "JavaScript",
   "Python",
@@ -18,9 +17,11 @@ let MyList = [
   "Spring Boot",
   "AWS",
   "REST",
-  "Android",
-  "Bootstrap",
-  "JQuery",
+  "Azure",
+  "Salesforce",
+  "ITSM",
+  "ServiceNow",
+  "Agile",
   "GitHub",
 ];
 function Word({ children, ...props }) {
